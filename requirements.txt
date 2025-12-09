@@ -6,3 +6,4 @@ streamlit-mic-recorder>=0.0.7
 SpeechRecognition>=3.10.0
 pydub>=0.25.1
 numpy>=2.0.0  # 更新到新版本避免distutils问题
+ffmpeg-python==0.2.0
